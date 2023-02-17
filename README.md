@@ -1,8 +1,7 @@
 # Lab3_Bootstrap
 
-URL TO THE Lab3_Bootstrap project
-
-https://anushavalasapalli-97.github.io/Lab3_Bootstrap/
+About Project:
+This project is all about using bootstrap.
 
 
 
