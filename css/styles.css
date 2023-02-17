@@ -1,0 +1,69 @@
+body {
+    font-family: Arial, sans-serif;
+}
+h1 {
+    font-size: 5em;
+    font-style: italic;
+    font-variant: small-caps;
+    text-align: center;
+    color: rebeccapurple;
+}
+h2 {
+    font-size: 2em;
+    font-variant: small-caps;
+    color: rebeccapurple;
+}
+h3 {
+    font-size: 1.5em;
+    color: rebeccapurple;
+}
+nav a {
+    text-decoration: none;
+    font-weight: bold;
+    font-size: larger;
+    color: blue;
+}
+header img {
+    width: 960px;
+    margin-top: 20;
+    margin-bottom: 20;
+}
+article img {
+    width: 400px;
+}
+nav ul {
+    padding: 0;
+    text-align: center;
+}
+nav li {
+    list-style-type: none;
+    display: inline-block;
+    padding: 10px;
+}
+.experience input, .experience textarea {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+}
+.experience {
+margin-bottom: 10px;
+} 
+.flex-container {
+    display: flex;
+}
+.activity img {
+    margin-right: 40px;
+}
+.activity figure {
+    margin-top: 20;
+}
+.activity ul {
+    padding: 10;
+}
+.activity li {
+    list-style-position: inside;
+}
+.center {
+    max-width: 960px;
+    margin: 0 auto;
+}
